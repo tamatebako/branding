@@ -1,0 +1,44 @@
+= Tebako branding
+
+== Logo
+
+The Tebako logo indicates that there is something precious to be safekept 
+within the container. The container is lightweight that is made of light
+and a thin curtain of water. While it is lightweight, it is self-contained
+and protects what is inside, such that the external waves cannot enter it.
+
+What is stored inside could be Ruby code, or something else (blue, Python?).
+
+Prompt that generated the red cube.
+
+On Ideogram:
+```
+In the middle of the ocean at midnight with strong waves there is a futuristic
+transparent rectangular cube with edges lined with strong red curved glowing
+light floating in the sky, it has rounded corners and rotated that one corner
+points up to the sky. The cube uses reverse gravity to push out the waves below
+and around it causing an invisible barrier that water cannot enter. The cube's
+faces are made of a layer of heavy water created by the glowing edges so there
+are strange refractions inside the box. Inside the box there is a single Ruby
+gem (red), floating in the middle of the cube, its red light illuminates the
+waves.
+```
+
+
+Blue cube:
+```
+In the middle of the ocean at midnight with strong waves there is a futuristic
+transparent rectangular cube with edges lined with strong blue curved glowing
+light floating in the sky, it has rounded corners and rotated that one corner
+points up to the sky. The cube uses reverse gravity to push out the waves below
+and around it causing an invisible barrier that water cannot enter. The cube's
+faces are made of a layer of heavy water created by the glowing edges so there
+are strange refractions inside the box. Inside the box there is a single
+Sapphire gem (blue), floating in the middle of the cube, its blue light
+illuminates the waves.
+```
+
+== License
+
+Copyright Ribose. All rights reserved.
+
